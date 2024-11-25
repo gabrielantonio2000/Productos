@@ -145,3 +145,25 @@ z-index:1000;
   text-transform: uppercase;
   font-weight: 800;
 }
+
+.slider-txt p{
+  font-size: 18px;
+  color: #A7A7A7;
+}
+
+.botones {
+  margin-top: 50px;
+}
+
+.btn-1{
+  display: inline-block;
+  padding: 15px 35px;
+  border: 2px solid #DB241B;
+  color: #FFFFFF;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-right:20px;
+  border-radius: 50px;
+
+}

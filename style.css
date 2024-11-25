@@ -209,6 +209,21 @@ z-index:1000;
   flex-grow:1;
   width: 100%;
   display: none;
-  padding-top: 25px;
-  
+  padding-top: 25px; 
+}
+
+.tabs input[type="radio"]{
+  display:none;
+}
+
+.tabs input[type="radio"]:checked +label {
+ border-bottom: 2px solid #DB241B;
+ color: #FFFFFF;
+}
+
+.prdouct{
+  display:flex;
+  align-items: center;
+  padding: 25px;
+  margin: 0 10px;
 }

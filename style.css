@@ -93,5 +93,44 @@ z-index:1000;
 
 .social img{
   margin: 8px 0 0 10px;
-
 }
+
+.menu .navbar ul li{
+  position:relative;
+  float: left;
+}
+
+.menu .navbar ul li a{
+  font-size: 18px;
+  padding: 20px;
+  color: #FFFF;
+  display: block;
+}
+
+.menu .navbar ul li a:hover{
+  color: #DB241B
+}
+
+#menu{
+  display:none;
+}
+
+.menu-icono{
+  width: 25px;
+}
+
+.menu label{
+  cursor:pointer;
+  display: none;
+}
+
+.header-content{
+  margin-top: 200px;
+  padding-bottom: 50px;
+}
+
+.slider{
+  display: flex;
+  align-items: center;
+}
+

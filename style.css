@@ -221,6 +221,11 @@ z-index:1000;
  color: #FFFFFF;
 }
 
+.tabs input[type="radio"]:checked +label+ .tab{
+  display:block
+}
+
+
 .product{
   display:flex;
   align-items: center;

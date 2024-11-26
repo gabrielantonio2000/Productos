@@ -201,6 +201,8 @@ z-index:1000;
   cursor:pointer;
   color:#A7A7A7;
   font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
   transition: background ease 0.2s;
 }
 

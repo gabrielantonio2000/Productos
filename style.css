@@ -74,6 +74,8 @@ z-index:1000;
 .logo-2{
   width:  300px;
   height: 200px;
+  display:flex;
+  align-items:center;
 }
 
 .socials{
@@ -417,7 +419,8 @@ z-index:1000;
   }
 
   .logo-2{
-    width: 0;
+    width: 50px;
+    height: 50px;
   }
 
   .menu label{
